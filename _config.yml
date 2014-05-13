@@ -1,17 +1,17 @@
-title:            Site Title
+title:            John's Blog
 description:      Describe your website.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              dearjohn.github.io
 disqus_shortname:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           John
   avatar:         bio-photo.jpg
   bio:            "Describe your self."
-  email:          your@email.com
+  email:          mail2johnwong@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:
+  twitter:        @noffus
   facebook:
   github:
   stackoverflow:
