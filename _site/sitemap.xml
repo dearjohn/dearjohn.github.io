@@ -1,62 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc></loc>
+        <loc>http://dearjohn.github.io</loc>
     </url>
     
     
     <url>
-        <loc>/404.html</loc>
+        <loc>http://dearjohn.github.io/404.html</loc>
     </url>
     
     <url>
-        <loc>/about/</loc>
+        <loc>http://dearjohn.github.io/about/</loc>
     </url>
     
     <url>
-        <loc>/feed.xml</loc>
+        <loc>http://dearjohn.github.io/feed.xml</loc>
     </url>
     
     <url>
-        <loc>/index.html</loc>
+        <loc>http://dearjohn.github.io/index.html</loc>
     </url>
     
     <url>
-        <loc>/posts/</loc>
+        <loc>http://dearjohn.github.io/posts/</loc>
     </url>
     
     <url>
-        <loc>/sitemap.xml</loc>
+        <loc>http://dearjohn.github.io/sitemap.xml</loc>
     </url>
     
     <url>
-        <loc>/theme-setup/</loc>
+        <loc>http://dearjohn.github.io/works/</loc>
     </url>
     
 
     
     <url>
-        <loc>/code-highlighting-post/</loc>
+        <loc>http://dearjohn.github.io/send-an-email/</loc>
     </url>
     
     <url>
-        <loc>/sample-link-post/</loc>
+        <loc>http://dearjohn.github.io/sample-link-post/</loc>
     </url>
     
     <url>
-        <loc>/readability-feature-post/</loc>
+        <loc>http://dearjohn.github.io/readability-feature-post/</loc>
     </url>
     
     <url>
-        <loc>/sample-post-images/</loc>
+        <loc>http://dearjohn.github.io/sample-post-images/</loc>
     </url>
     
     <url>
-        <loc>/readability-post/</loc>
-    </url>
-    
-    <url>
-        <loc>/sample-post/</loc>
+        <loc>http://dearjohn.github.io/readability-post/</loc>
     </url>
     
 </urlset>
